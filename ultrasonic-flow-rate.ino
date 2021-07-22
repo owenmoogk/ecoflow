@@ -1,6 +1,6 @@
-int trigger_pin = 2;
-int echo_pin = 6;
-int testTrigger = 5;
+int trigger_pin = 5;
+int echo_pin = 3;
+int testTrigger = 2;
 int time;
 float distance; 
 
