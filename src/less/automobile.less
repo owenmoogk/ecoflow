@@ -1,0 +1,28 @@
+@media only screen and (max-width: 875px) {
+    #navButton{
+        z-index: 10;
+        display: flex;
+        position: fixed;
+        right: 10px;
+        background-color: white;
+        border-radius: 5px;
+        top: 10px;
+    }
+    #nav{
+        flex-direction: column;
+        display: none;
+        height: 100vh;
+        width: 100vw;
+        background-color: rgba(173,216,230, 0.7);
+        justify-content: center;
+        backdrop-filter: blur(5px);
+        position: absolute;
+        left: 0;
+        align-items: center;
+
+        a{
+            font-size: 30px;
+            font-weight: bold;
+        }
+    }
+}

@@ -9,7 +9,7 @@ export default function Vision(){
 
             <p>Through the implementation of an application and water monitoring sensor, homeowners can have a proper sense of their water usage, and can adjust accordingly. Check it out!</p>
 
-            <iframe style={{border: '1px solid rgba(0, 0, 0, 0.1)', width:'800px', height:'450px'}} src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2F5FlCRbLdZS3zMjbsdgtB1w%2FWater-App-Prototype-(Copy)%3Fnode-id%3D0%253A1" allowfullscreen></iframe>
+            <iframe style={{border: '1px solid rgba(0, 0, 0, 0.1)', width:'min(100%, 800px)', height:'450px'}} src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2F5FlCRbLdZS3zMjbsdgtB1w%2FWater-App-Prototype-(Copy)%3Fnode-id%3D0%253A1" allowfullscreen></iframe>
         </div>
     )
 }
