@@ -1,0 +1,49 @@
+form{
+    display: flex;
+    flex-direction: column;
+    width: min(700px, 100%);
+
+    #name{
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+    }
+
+    input, textarea{
+        font-size: 15px;
+        padding: 10px;
+        margin: 5px;
+        border-radius: 5px;
+        color: var(--textColor);
+        background-color: white;
+        border: 2px solid black;
+    }
+
+    ::placeholder{
+        color: grey;
+    }
+
+    input{
+        flex: 1;
+    }
+
+    textarea{
+        height: 100px;
+        resize: none;
+    }
+
+    button[type='submit']{
+        border-radius: 10px;
+        font-size: 15px;
+        padding: 5px 20px;
+        margin: auto;
+        margin-top: 5px;
+        border: 2px solid black;
+        background-color: white;
+        transition: 0.3s;
+
+        &:hover{
+            background: lightgrey;
+        }
+    }
+}

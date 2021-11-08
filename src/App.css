@@ -1,0 +1,70 @@
+@import url('css/Homepage.css');
+@import url('css/nav.css');
+@import url('css/our-team.css');
+@import url('css/contact.css');
+
+body{
+    margin: 0;
+}
+
+*{
+    font-family: 'IBM Plex Sans', sans-serif;
+}
+
+:root{
+    --lightOrange: rgb(254, 216, 177);
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+.App{
+    background-color: lightblue;
+    width: 80%;
+    padding: 0 10%;
+    min-height: 100vh;
+    padding-bottom: 50px;
+}
+
+#title{
+    margin: 0;
+    font-size: 70px;
+}
+
+.subtitle{
+    font-size: 30px;
+    font-style: italic;
+}
+
+p{
+    font-size: 20px;
+}
+
+p a{
+    text-decoration: underline;
+    color: grey;
+}
+
+p a:hover{
+    text-decoration: none;
+}
+
+.caption{
+    margin-top: 5px;
+    font-size: 15px;
+    color: grey;
+    font-style: italic;
+}
+
+img{
+    width: min(700px, 90%);
+    margin: 20px 0;
+}
+
+.pageTitle{
+    font-size: 40px;
+    font-weight: bold;
+    font-style: italic;
+}
