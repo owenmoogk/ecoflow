@@ -10,9 +10,15 @@ export default function Nav(props) {
 		}
 	})
 
+    window.onscroll = () => {
+        if (shown && window.innerWidth <= 875){
+            window.scrollTo(0,0)
+        }
+    }
+
     return (
         <>
-            <svg id="navButton" onClick={() => setShown(!shown)} preserveAspectRatio="xMidYMid meet" viewBox="0 0 48 48" style={{height: '40px', width: '40px'}} stroke='black'>
+            <svg id="navButton" onClick={() => {setShown(!shown); window.scrollTo(0,0);}} preserveAspectRatio="xMidYMid meet" viewBox="0 0 48 48" style={{height: '40px', width: '40px'}} stroke='black'>
                 <g fill="none" strokeWidth="4" strokeLinecap="round" strokeLinejoin="round">
                     <path d="M7.95 11.95h32" />
                     <path d="M7.95 23.95h32" />
