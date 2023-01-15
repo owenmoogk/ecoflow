@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/ecoflow-website/static/css/main.55b7cb9c.chunk.css",
-    "main.js": "/ecoflow-website/static/js/main.be7f1841.chunk.js",
-    "main.js.map": "/ecoflow-website/static/js/main.be7f1841.chunk.js.map",
+    "main.js": "/ecoflow-website/static/js/main.76aaa5f2.chunk.js",
+    "main.js.map": "/ecoflow-website/static/js/main.76aaa5f2.chunk.js.map",
     "runtime-main.js": "/ecoflow-website/static/js/runtime-main.959e66e8.js",
     "runtime-main.js.map": "/ecoflow-website/static/js/runtime-main.959e66e8.js.map",
-    "static/js/2.726aeb75.chunk.js": "/ecoflow-website/static/js/2.726aeb75.chunk.js",
-    "static/js/2.726aeb75.chunk.js.map": "/ecoflow-website/static/js/2.726aeb75.chunk.js.map",
+    "static/js/2.646ece56.chunk.js": "/ecoflow-website/static/js/2.646ece56.chunk.js",
+    "static/js/2.646ece56.chunk.js.map": "/ecoflow-website/static/js/2.646ece56.chunk.js.map",
     "index.html": "/ecoflow-website/index.html",
     "static/css/main.55b7cb9c.chunk.css.map": "/ecoflow-website/static/css/main.55b7cb9c.chunk.css.map",
-    "static/js/2.726aeb75.chunk.js.LICENSE.txt": "/ecoflow-website/static/js/2.726aeb75.chunk.js.LICENSE.txt"
+    "static/js/2.646ece56.chunk.js.LICENSE.txt": "/ecoflow-website/static/js/2.646ece56.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.959e66e8.js",
-    "static/js/2.726aeb75.chunk.js",
+    "static/js/2.646ece56.chunk.js",
     "static/css/main.55b7cb9c.chunk.css",
-    "static/js/main.be7f1841.chunk.js"
+    "static/js/main.76aaa5f2.chunk.js"
   ]
 }
