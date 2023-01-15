@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/ecoflow-website/static/css/main.55b7cb9c.chunk.css",
-    "main.js": "/ecoflow-website/static/js/main.37b13f76.chunk.js",
-    "main.js.map": "/ecoflow-website/static/js/main.37b13f76.chunk.js.map",
+    "main.js": "/ecoflow-website/static/js/main.c3f53782.chunk.js",
+    "main.js.map": "/ecoflow-website/static/js/main.c3f53782.chunk.js.map",
     "runtime-main.js": "/ecoflow-website/static/js/runtime-main.959e66e8.js",
     "runtime-main.js.map": "/ecoflow-website/static/js/runtime-main.959e66e8.js.map",
     "static/js/2.646ece56.chunk.js": "/ecoflow-website/static/js/2.646ece56.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.959e66e8.js",
     "static/js/2.646ece56.chunk.js",
     "static/css/main.55b7cb9c.chunk.css",
-    "static/js/main.37b13f76.chunk.js"
+    "static/js/main.c3f53782.chunk.js"
   ]
 }
