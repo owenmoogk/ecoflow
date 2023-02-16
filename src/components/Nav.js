@@ -26,11 +26,11 @@ export default function Nav(props) {
                 </g>
             </svg>
             <div id='nav' style={{display: shown ? 'flex' : ''}}>
-                <a href='/'>Home</a>
-                <a href='/our-team'>Our Team</a>
-                <a href='/vision'>Vision</a>
-                <a href='/solution'>Solution</a>
-                <a href='/contact'>Contact Us</a>
+                <a href='./#/'>Home</a>
+                <a href='./#/our-team'>Our Team</a>
+                <a href='./#/vision'>Vision</a>
+                <a href='./#/solution'>Solution</a>
+                <a href='./#/contact'>Contact Us</a>
             </div>
         </>
     )

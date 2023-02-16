@@ -1,6 +1,6 @@
 import './App.css';
 import {
-  BrowserRouter as Router,
+  HashRouter as Router,
   Routes as Switch,
   Route,
 } from "react-router-dom";
@@ -21,7 +21,7 @@ function App() {
           <Route exact path='/vision' element={<Vision />} />
           <Route exact path='/solution' element={<Solution />} />
           <Route exact path='/contact' element={<Contact />} />
-          <Route exact path='' element={<Homepage />} />
+          <Route exact path='/' element={<Homepage />} />
         </Switch>
       </Router>
     </div>
