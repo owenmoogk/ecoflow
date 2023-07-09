@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/ecoflow-website/static/css/main.55b7cb9c.chunk.css",
-    "main.js": "/ecoflow-website/static/js/main.10490242.chunk.js",
-    "main.js.map": "/ecoflow-website/static/js/main.10490242.chunk.js.map",
-    "runtime-main.js": "/ecoflow-website/static/js/runtime-main.959e66e8.js",
-    "runtime-main.js.map": "/ecoflow-website/static/js/runtime-main.959e66e8.js.map",
-    "static/js/2.3ba6d79e.chunk.js": "/ecoflow-website/static/js/2.3ba6d79e.chunk.js",
-    "static/js/2.3ba6d79e.chunk.js.map": "/ecoflow-website/static/js/2.3ba6d79e.chunk.js.map",
-    "index.html": "/ecoflow-website/index.html",
-    "static/css/main.55b7cb9c.chunk.css.map": "/ecoflow-website/static/css/main.55b7cb9c.chunk.css.map",
-    "static/js/2.3ba6d79e.chunk.js.LICENSE.txt": "/ecoflow-website/static/js/2.3ba6d79e.chunk.js.LICENSE.txt"
+    "main.css": "/ecoflow/static/css/main.55b7cb9c.chunk.css",
+    "main.js": "/ecoflow/static/js/main.e2ec9643.chunk.js",
+    "main.js.map": "/ecoflow/static/js/main.e2ec9643.chunk.js.map",
+    "runtime-main.js": "/ecoflow/static/js/runtime-main.31aa5c0d.js",
+    "runtime-main.js.map": "/ecoflow/static/js/runtime-main.31aa5c0d.js.map",
+    "static/js/2.819e8cea.chunk.js": "/ecoflow/static/js/2.819e8cea.chunk.js",
+    "static/js/2.819e8cea.chunk.js.map": "/ecoflow/static/js/2.819e8cea.chunk.js.map",
+    "index.html": "/ecoflow/index.html",
+    "static/css/main.55b7cb9c.chunk.css.map": "/ecoflow/static/css/main.55b7cb9c.chunk.css.map",
+    "static/js/2.819e8cea.chunk.js.LICENSE.txt": "/ecoflow/static/js/2.819e8cea.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.959e66e8.js",
-    "static/js/2.3ba6d79e.chunk.js",
+    "static/js/runtime-main.31aa5c0d.js",
+    "static/js/2.819e8cea.chunk.js",
     "static/css/main.55b7cb9c.chunk.css",
-    "static/js/main.10490242.chunk.js"
+    "static/js/main.e2ec9643.chunk.js"
   ]
 }
